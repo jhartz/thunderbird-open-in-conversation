@@ -14,6 +14,10 @@ This works best when you don't have the "multi-pane" layout (i.e. you open messa
 
 The window that opens contains not only the messages in the thread that are in your inbox, but also ones in other folders (so you can see sent messages in there too).
 
+## Installation
+
+Download [thunderbird-open-in-conversation.xpi](thunderbird-open-in-conversation.xpi). Then, in Thunderbird, go to *Tools* > *Add-ons*, choose *Extensions* in the pane on the left, click the gear drop-down, select *Install Add-on From File*, and choose "thunderbird-open-in-conversation.xpi".
+
 ## License
 
 This project is licensed under the Mozilla Public License version 2. For more, see the [LICENSE](LICENSE) file.
