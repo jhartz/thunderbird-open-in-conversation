@@ -16,7 +16,7 @@ The window that opens contains not only the messages in the thread that are in y
 
 ## Installation
 
-Download [thunderbird-open-in-conversation.xpi](thunderbird-open-in-conversation.xpi). Then, in Thunderbird, go to *Tools* > *Add-ons*, choose *Extensions* in the pane on the left, click the gear drop-down, select *Install Add-on From File*, and choose "thunderbird-open-in-conversation.xpi".
+Download [thunderbird-open-in-conversation.xpi](https://github.com/jhartz/thunderbird-open-in-conversation/raw/master/thunderbird-open-in-conversation.xpi). Then, in Thunderbird, go to *Tools* > *Add-ons*, choose *Extensions* in the pane on the left, click the gear drop-down, select *Install Add-on From File*, and choose "thunderbird-open-in-conversation.xpi".
 
 ## License
 
