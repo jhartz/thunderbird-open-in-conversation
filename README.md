@@ -18,6 +18,8 @@ The window that opens contains not only the messages in the thread that are in y
 
 Download [thunderbird-open-in-conversation.xpi](https://github.com/jhartz/thunderbird-open-in-conversation/raw/master/thunderbird-open-in-conversation.xpi). Then, in Thunderbird, go to *Tools* > *Add-ons*, choose *Extensions* in the pane on the left, click the gear drop-down, select *Install Add-on From File*, and choose "thunderbird-open-in-conversation.xpi".
 
+For Thunderbird to be able to identify conversations, the setting *Enable Global Search and Indexer* needs to be enabled in *Preferences* > *Advanced* > *General*.
+
 ## License
 
 This project is licensed under the Mozilla Public License version 2. For more, see the [LICENSE](LICENSE) file.
