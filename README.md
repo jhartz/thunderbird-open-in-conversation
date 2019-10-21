@@ -2,6 +2,11 @@
 
 Thunderbird add-on to make the default message list action "Open Message in Conversation"
 
+## What's New
+
+- **0.9** (November 8, 2016): Initial release
+- **1.0.1** (October 20, 2019): Updated from `install.rdf` to `manifest.json` for compatibility with Thunderbird 68
+
 ## How it Works
 
 First, be sure you have message threading enabled (*View* > *Sort by* > *Threaded*). Then, right-click on a thread. Notice the option "Open Message in Conversation":
