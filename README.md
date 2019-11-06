@@ -23,7 +23,7 @@ The window that opens contains not only the messages in the thread that are in y
 
 Go to *Tools* > *Add-ons*, search for "Open In Conversation", and click "Add to Thunderbird".
 
-For more info, go to the [Mozilla Add-ons page](https://addons.thunderbird.net/addon/open-in-conversation/) for Open In Conversation..
+For more info, go to the [Mozilla Add-ons page](https://addons.thunderbird.net/addon/open-in-conversation/) for Open In Conversation.
 
 For Thunderbird to be able to identify conversations, the setting *Enable Global Search and Indexer* needs to be enabled in *Preferences* > *Advanced* > *General*.
 
